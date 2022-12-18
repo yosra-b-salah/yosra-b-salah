@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS Stack
 - 🌱 I’m currently learning JAVA, Spring Boot, React
 - 📫 How to reach me :
-  - Email: bensalah.ysora@hotmail.com
+  - Email: bensalah.yosra@hotmail.com
   - Linkedin : https://www.linkedin.com/in/yosra-ben-salah-00939769/
 
 <!---

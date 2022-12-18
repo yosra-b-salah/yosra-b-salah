@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yosra-b-salah
 - 👀 I’m interested in JS Stack
-- 🌱 I’m currently learning JAVA, Spring Boot
+- 🌱 I’m currently learning JAVA, Spring Boot, React
 - 📫 How to reach me :
   - Email: bensalah.ysora@hotmail.com
   - Linkedin : https://www.linkedin.com/in/yosra-ben-salah-00939769/
